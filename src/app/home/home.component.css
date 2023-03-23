@@ -1,0 +1,19 @@
+button{
+    justify-content: center;
+}
+.result
+{
+    display: flex;
+    background-color: rgb(246, 240, 241);
+    margin: 10px;
+    width: 200px;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+p{
+    margin-top:10px ;
+}
+.card
+{
+    background-color: rgb(191, 191, 196);
+}
